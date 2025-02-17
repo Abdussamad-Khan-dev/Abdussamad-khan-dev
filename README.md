@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi there 👋 I'm Abdussamad Khan
+
+## <ins>about</ins>
+### I’m a web developer who loves building things I’m also diving into AI-driven applications especically Gen Ai. I also  have a keen interest in cybersecurity and Web3 development.
 
 <!--
 **Abdussamad-Khan-dev/Abdussamad-khan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
