@@ -5,7 +5,7 @@
 
 ### languages and tools 
 
-(https://www.svgrepo.com/svg/303532/python-3-logo)
+![Image](https://github.com/user-attachments/assets/6231e9b7-23cc-4a7c-a9fc-b28c57cf5106)
 <!--
 **Abdussamad-Khan-dev/Abdussamad-khan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
